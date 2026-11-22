@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="38" viewBox="0 0 202 38">
+  <defs>
+    <style>
+      .btn { transition: all 0.25s ease-in-out; }
+      .btn:hover .bg { fill: #1D1730; stroke: #A855F7; stroke-width: 1.5px; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #F4F7FB; }
+      .dot { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #7E8BA3; }
+      .action { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #A855F7; }
+      .arrow { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #A855F7; }
+    </style>
+  </defs>
+  <g class="btn">
+    <!-- Capsule Background -->
+    <rect class="bg" x="1" y="1" width="200" height="36" rx="18" fill="#10182B" stroke="#A855F7" stroke-width="1.2" stroke-opacity="0.5" />
+    
+    <!-- Globe/Portfolio Icon (16x16) -->
+    <g transform="translate(16, 11)">
+      <path fill="#A855F7" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm5.93 7h-2.58A12.7 12.7 0 0 0 10.3 2.6c1.65.92 2.91 2.45 3.63 4.4zM8 1.48c.84 1.4 1.5 3.32 1.72 5.52H6.28C6.5 4.8 7.16 2.88 8 1.48zM1.77 9c.12 1.83.91 3.47 2.15 4.67A12.63 12.63 0 0 1 4.97 9H1.77zm.3-2h3.2c.23-2.2 1.01-4.12 1.85-5.52A6.55 6.55 0 0 0 2.07 7zM8 14.52c-.84-1.4-1.5-3.32-1.72-5.52h3.44c-.22 2.2-.88 4.12-1.72 5.52zm3.03-5.52c.23 2.2 1.01 4.12 1.85 5.52A6.55 6.55 0 0 0 13.93 9h-2.9zm.32-2h2.58c-.72-1.95-1.98-3.48-3.63-4.4.45 1.15.82 2.72 1.05 4.4zM4.97 7H1.77A6.55 6.55 0 0 1 5.7 2.6c-.45 1.15-.82 2.72-1.05 4.4h.32z"/>
+    </g>
+
+    <!-- Typography -->
+    <text x="40" y="23.5" class="label">Portfolio</text>
+    <text x="96" y="23.5" class="dot">·</text>
+    <text x="107" y="23.5" class="action">Visit Site</text>
+    <text x="172" y="23.5" class="arrow">↗</text>
+  </g>
+</svg>

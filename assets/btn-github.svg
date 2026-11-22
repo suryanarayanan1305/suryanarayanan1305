@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="38" viewBox="0 0 176 38">
+  <defs>
+    <style>
+      .btn { transition: all 0.25s ease-in-out; }
+      .btn:hover .bg { fill: #172033; stroke: #00C8FF; stroke-width: 1.5px; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #F4F7FB; }
+      .dot { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #7E8BA3; }
+      .action { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #C9D1D9; }
+      .arrow { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #00C8FF; }
+    </style>
+  </defs>
+  <g class="btn">
+    <!-- Capsule Background -->
+    <rect class="bg" x="1" y="1" width="174" height="36" rx="18" fill="#10182B" stroke="#26334A" stroke-width="1.2" stroke-opacity="0.9" />
+    
+    <!-- GitHub Mark Icon (16x16) -->
+    <g transform="translate(16, 11)">
+      <path fill="#F4F7FB" fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+    </g>
+
+    <!-- Typography -->
+    <text x="40" y="23.5" class="label">GitHub</text>
+    <text x="90" y="23.5" class="dot">·</text>
+    <text x="101" y="23.5" class="action">Follow</text>
+    <text x="148" y="23.5" class="arrow">↗</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="38" viewBox="0 0 216 38">
+  <defs>
+    <style>
+      .btn { transition: all 0.25s ease-in-out; }
+      .btn:hover .bg { fill: #152238; stroke: #00C8FF; stroke-width: 1.5px; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #F4F7FB; }
+      .dot { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #7E8BA3; }
+      .action { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #00C8FF; }
+      .arrow { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #00C8FF; }
+    </style>
+  </defs>
+  <g class="btn">
+    <rect class="bg" x="1" y="1" width="214" height="36" rx="18" fill="#10182B" stroke="#00C8FF" stroke-width="1.2" stroke-opacity="0.5" />
+    <g transform="translate(16, 11)">
+      <!-- Render/Live Rocket Icon -->
+      <path fill="#00C8FF" d="M14.7 1.3a1 1 0 0 0-1-.28l-4.5 1.5a1 1 0 0 0-.6.67L7.3 7.3a1 1 0 0 0 .23 1l1.5 1.5a1 1 0 0 0 1 .23l4.1-1.3a1 1 0 0 0 .67-.6l1.5-4.5a1 1 0 0 0-.6-1.36zM3.4 11.2l1.4 1.4-2.1 2.1a1 1 0 0 1-1.4-1.4l2.1-2.1z"/>
+    </g>
+    <text x="40" y="23.5" class="label">Live Showcase</text>
+    <text x="131" y="23.5" class="dot">·</text>
+    <text x="142" y="23.5" class="action">Portfolio</text>
+    <text x="194" y="23.5" class="arrow">↗</text>
+  </g>
+</svg>

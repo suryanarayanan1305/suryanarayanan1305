@@ -10,24 +10,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suryanarayanan-p1305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00C8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
+    <img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://surya-narayanan-portfolio.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-A855F7?style=for-the-badge&logo=render&logoColor=white&labelColor=111827" alt="Portfolio" />
+    <img src="assets/btn-portfolio.svg" height="38" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:suryanarayanan1305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00D6A0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
+    <img src="assets/btn-email.svg" height="38" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/suryanarayanan1305" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-26334A?style=for-the-badge&logo=github&logoColor=00C8FF&labelColor=111827" alt="GitHub" />
+    <img src="assets/btn-github.svg" height="38" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryanarayanan1305&label=PROFILE%20VIEWS&color=00c8ff&style=for-the-badge&labelColor=111827" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=suryanarayanan1305&label=PROFILE%20VIEWS&color=00c8ff&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -101,11 +101,11 @@
   <p><b>Tech Stack:</b> Python, FastAPI, MQTT, PostgreSQL, React, Docker</p>
   <p align="center">
     <a href="https://surya-narayanan-portfolio.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Showcase-Portfolio-00C8FF?style=for-the-badge&logo=render&logoColor=white&labelColor=111827" alt="Live Showcase" />
+      <img src="assets/btn-showcase.svg" height="38" alt="Live Showcase" />
     </a>
     &nbsp;
     <a href="https://github.com/suryanarayanan1305" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-View%20Projects-26334A?style=for-the-badge&logo=github&logoColor=00C8FF&labelColor=111827" alt="Source Code" />
+      <img src="assets/btn-sourcecode.svg" height="38" alt="Source Code" />
     </a>
   </p>
 </td>
@@ -241,7 +241,7 @@
   <a href="https://www.linkedin.com/in/suryanarayanan-p1305/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00C8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
+    <img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn" />
   </a>
   <br />
   <sub><b>Professional Network</b></sub>
@@ -250,7 +250,7 @@
   <a href="https://surya-narayanan-portfolio.onrender.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="Portfolio" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-A855F7?style=for-the-badge&logo=render&logoColor=white&labelColor=111827" alt="Portfolio" />
+    <img src="assets/btn-portfolio.svg" height="34" alt="Portfolio" />
   </a>
   <br />
   <sub><b>Live Portfolio &amp; Projects</b></sub>
@@ -259,7 +259,7 @@
   <a href="mailto:suryanarayanan1305@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00D6A0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
+    <img src="assets/btn-email.svg" height="34" alt="Email" />
   </a>
   <br />
   <sub><b>Direct Communication</b></sub>

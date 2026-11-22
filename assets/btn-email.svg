@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="38" viewBox="0 0 172 38">
+  <defs>
+    <style>
+      .btn { transition: all 0.25s ease-in-out; }
+      .btn:hover .bg { fill: #102B24; stroke: #00D6A0; stroke-width: 1.5px; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #F4F7FB; }
+      .dot { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #7E8BA3; }
+      .action { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #00D6A0; }
+      .arrow { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #00D6A0; }
+    </style>
+  </defs>
+  <g class="btn">
+    <!-- Capsule Background -->
+    <rect class="bg" x="1" y="1" width="170" height="36" rx="18" fill="#10182B" stroke="#00D6A0" stroke-width="1.2" stroke-opacity="0.5" />
+    
+    <!-- Email/Envelope Icon (16x16) -->
+    <g transform="translate(16, 11)">
+      <path fill="#00D6A0" d="M1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9A1.5 1.5 0 0 1 1.5 2zm0 1.2a.3.3 0 0 0-.3.3v.4l6.8 4.25 6.8-4.25V3.5a.3.3 0 0 0-.3-.3h-13zm13.3 2.15-6.44 4.02a.66.66 0 0 1-.72 0L1.2 5.35V12.5a.3.3 0 0 0 .3.3h13a.3.3 0 0 0 .3-.3V5.35z"/>
+    </g>
+
+    <!-- Typography -->
+    <text x="40" y="23.5" class="label">Email</text>
+    <text x="80" y="23.5" class="dot">·</text>
+    <text x="91" y="23.5" class="action">Contact</text>
+    <text x="144" y="23.5" class="arrow">↗</text>
+  </g>
+</svg>

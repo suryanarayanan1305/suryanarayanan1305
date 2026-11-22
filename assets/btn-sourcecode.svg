@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="38" viewBox="0 0 220 38">
+  <defs>
+    <style>
+      .btn { transition: all 0.25s ease-in-out; }
+      .btn:hover .bg { fill: #172033; stroke: #00C8FF; stroke-width: 1.5px; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #F4F7FB; }
+      .dot { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #7E8BA3; }
+      .action { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #A8B3C7; }
+      .arrow { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #00C8FF; }
+    </style>
+  </defs>
+  <g class="btn">
+    <rect class="bg" x="1" y="1" width="218" height="36" rx="18" fill="#10182B" stroke="#26334A" stroke-width="1.2" stroke-opacity="0.9" />
+    <g transform="translate(16, 11)">
+      <!-- Code brackets icon -->
+      <path fill="#F4F7FB" d="M5.7 3.3a1 1 0 0 0-1.4 0l-4 4a1 1 0 0 0 0 1.4l4 4a1 1 0 1 0 1.4-1.4L2.4 8l3.3-3.3a1 1 0 0 0 0-1.4zm4.6 0a1 1 0 0 0 0 1.4L13.6 8l-3.3 3.3a1 1 0 1 0 1.4 1.4l4-4a1 1 0 0 0 0-1.4l-4-4a1 1 0 0 0-1.4 0z"/>
+    </g>
+    <text x="38" y="23.5" class="label">Source Code</text>
+    <text x="119" y="23.5" class="dot">·</text>
+    <text x="130" y="23.5" class="action">Projects</text>
+    <text x="194" y="23.5" class="arrow">↗</text>
+  </g>
+</svg>
